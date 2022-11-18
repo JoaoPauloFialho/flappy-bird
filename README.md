@@ -1,5 +1,5 @@
 # Flappy Bird
-## Jogo feito como prática dos conceitos de manipulação de DOM do js
+## Fiz esse jogo para prarticar os conceitos de manipulação do DOM usando js
 
 #### Gravidade -> implementada
 #### Cenário dinâmico -> implementado
