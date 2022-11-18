@@ -1,0 +1,30 @@
+.flappy{
+    position: absolute;
+    width: 3rem;
+    transition: 0.5s;
+    left: 10px;
+    user-select:none
+}
+
+.fase{
+    overflow: hidden;
+    background-color: aqua;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+.canos_div{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    row-gap: 12rem;
+    left: 95rem;
+}
+
+.cano{
+    user-select:none
+}
+
+
+
